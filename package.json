@@ -1,0 +1,19 @@
+{
+  "name": "betthefuture",
+  "version": "1.0.0",
+  "description": "bet the behavior of stock markets using blackrock data and gnosis coins. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjkimjunior/BetTheFuture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjkimjunior/BetTheFuture/issues"
+  },
+  "homepage": "https://github.com/yjkimjunior/BetTheFuture#readme"
+}
